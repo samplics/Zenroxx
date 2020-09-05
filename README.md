@@ -1,7 +1,6 @@
 - Py
 - c#
 - Js
-- Ru
 - Html
 - Css
 
